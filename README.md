@@ -3,6 +3,9 @@ This is a collection of example Appium TestNG tests written for the AWS Device F
 
 **This test suite uses the [Appium page model](http://appium.io/slate/en/tutorial/android?java#page-object-pattern) in order to separate the tests from the logic.**
 
+# Steps for use Structure
+* https://www.swtestacademy.com/device-farm-appium-pom/
+
 # Android
 ## Getting Started
 1. Follow the **[official Appium getting started guide](http://appium.io/slate/en/tutorial/android.html?java#getting-started-with-appium)** and install the Appium server and dependencies. 
